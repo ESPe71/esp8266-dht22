@@ -1,1 +1,1 @@
-# esp8266-dht22
+# Temperatur- und Feuchtigkeitsmessung mittels DHT22-Sensor
